@@ -1,6 +1,6 @@
 ---
 source-git-commit: c35fc9c445566543cbf621c079d48ebc71fdafe7
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # 記事のコントリビューション
@@ -9,17 +9,17 @@ translation-type: tm+mt
 
 ## Adobe Open Source Code of Practice
 
-このプロジェクトでは、[Adobe Open Source Code of Actions](code-of-conduct.md)または. NET Foundation [Codeの実施を採用してい](https://dotnetfoundation.org/code-of-conduct)ます。詳しくは[、貢献度の高い](contributing.md)記事を参照してください。
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは[、貢献度の高い](contributing.md)記事を参照してください。
 
-## Adobeコンテンツへの貢献事項について
+## アドビのコンテンツへのコントリビューションについて
 
-["Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)」を参照してください。
+[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) を参照してください。
 
-どのような貢献度が貢献しているか、およびどのように貢献したいかによって異なります。
+コントリビューションの方法は、誰がどのような変更をコントリビュートするかに応じて異なります。
 
 ### マイナーな変更
 
-厳選されたマイナーな更新をおこなう場合は、記事にアクセスし、記事の GitHub ソースに移動する記事の&#x200B;**「編集」**&#x200B;リンクをクリックしてください。その後、GitHub UI を使用してアップデートをおこないます。See the general [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) for more information.
+厳選されたマイナーな更新をおこなう場合は、記事にアクセスし、記事の GitHub ソースに移動する記事の&#x200B;**「編集」**&#x200B;リンクをクリックしてください。その後、GitHub UI を使用してアップデートをおこないます。詳しくは、一般的[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
 
 このリポジトリのドキュメントおよびコード例については、マイナーな修正または詳細な説明をアドビの利用条件で説明しています。
 
@@ -33,20 +33,20 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### アドビ従業員による大幅な変更
 
-If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it's your job to contribute to or author technical articles, you should use the private repository [https://git.corp.adobe.com/AdobeDocs](https://git.corp.adobe.com/AdobeDocs). <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+Adobe Experience Cloud ソリューションの製品チーム、プログラムマネージャーまたは開発者で、技術的な記事に寄稿または作成する場合は、プライベートリポジトリ（[https://git.corp.adobe.com/AdobeDocs](https://git.corp.adobe.com/AdobeDocs)）を使用する必要があります。 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## ツールとセットアップ
 
-コミュニティ寄稿者は、基本的な編集にGitHub UIを使用したり、レポをフォークしてメジャー貢献度を確保したりできます。
+コミュニティのコントリビューターは、基本的な編集をするときには GitHub の UI を使用し、大きな変更を加えるときにはリポジトリをフォークします。
 
-詳しくは、[Adobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
 
-## markdownを使用してトピックをフォーマットする方法
+## markdown を使用してトピックをフォーマットする方法
 
 このリポジトリのすべての記事は GitHub フレーズダウンダウンを使用します。マークダウンについて詳しくない場合は、以下を参照してください。
 
-* [マーケティングの基本](https://help.github.com/articles/markdown-basics/)
-* [印刷可能なマーチャンダイジングシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdown の基本](https://help.github.com/articles/markdown-basics/)
+* [印刷用 Markdown データシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
