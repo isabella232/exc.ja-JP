@@ -1,28 +1,28 @@
 ---
-description: Adobe Experience Cloudライブラリでフォルダをごみ箱に入れることができます。
-seo-description: Adobe Experience Cloudライブラリでフォルダをごみ箱に入れることができます。
-seo-title: フォルダのごみ箱フォルダ
+description: Adobe Experience Cloud ライブラリ内のフォルダーをごみ箱に入れることができます。
+seo-description: Adobe Experience Cloud ライブラリ内のフォルダーをごみ箱に入れることができます。
+seo-title: フォルダーをごみ箱に入れる
 solution: Adobe Experience Manager
-title: フォルダのごみ箱フォルダ
+title: フォルダーをごみ箱に入れる
 uuid: 0e1c5ef2-188e-4012-92db-900b9d5732cf
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# フォルダのごみ箱フォルダ{#trash-a-folder}
+# フォルダーをごみ箱に入れる{#trash-a-folder}
 
-Adobe Experience Cloudライブラリでフォルダをごみ箱に入れることができます。
+Adobe Experience Cloud ライブラリ内のフォルダーをごみ箱に入れることができます。
 
-Experience Cloudライブラリでフォルダをごみ箱に入れるには:
+Experience Cloud ライブラリ内のフォルダーをごみ箱に入れには、次の手順を実行します。
 
-1. ごみ箱のフォルダをクリックします。
-1. **[!UICONTROL その他のオプションメニュー]** （省略記号）をクリックし、ごみ箱を選択 ****&#x200B;します。
+1. ごみ箱に入れるフォルダーをクリックします。
+1. **[!UICONTROL その他のオプションメニュー]**（省略記号）をクリックして、「**[!UICONTROL Trash]**」を選択します。
 
    ![](assets/library_folder_trash.png)
 
-1. フォルダをごみ箱に入れておくことを確認します。
+1. フォルダーをごみ箱に入れることを確認します。
 
    ![](assets/library_folder_trash_confirm.png)
 
