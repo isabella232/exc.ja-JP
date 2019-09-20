@@ -1,16 +1,16 @@
 ---
 cloud: experience-cloud
-product: exC
+product: ExC
 solution-title: Experience Cloud コアサービス
 solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
-getting-started-title: 導入
+getting-started-title: はじめに
 getting-started-url: https://helpx.adobe.com/jp/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/jp/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cbe7cdc8031e57dd66d7801a6dbf6e7df959a6bd
 
 ---
@@ -33,7 +33,7 @@ metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md
 | tutorials-url | ビデオチュートリアル（ヘルプチュートリアルまたは KT チュートリアル）へのリンク |
 | mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です。 |
 | git-repo | コラボレーションリポジトリの場所を指定します。公開ドキュメントに github.com のミラーを使用 |
-| index | set index= no for soft launch |
+| index | set index=no for soft launch |
 
 TOC.md ファイル内
 
