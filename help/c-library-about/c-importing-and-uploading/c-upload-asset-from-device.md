@@ -1,27 +1,27 @@
 ---
-description: デバイスからアセットをアップロードして、Adobe Experience Cloudライブラリで管理します。
-seo-description: デバイスからアセットをアップロードして、Adobe Experience Cloudライブラリで管理します。
-seo-title: デバイスからアセットをアップロード
+description: デバイスからアセットをアップロードして、Adobe Experience Cloud ライブラリで管理します。
+seo-description: デバイスからアセットをアップロードして、Adobe Experience Cloud ライブラリで管理します。
+seo-title: デバイスからのアセットのアップロード
 solution: Adobe Experience Manager
-title: デバイスからアセットをアップロード
-uuid: 77b608b3- b588-4eec- a2f9- a3e4d2e6d44f
-translation-type: tm+mt
+title: デバイスからのアセットのアップロード
+uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# デバイスからアセットをアップロード{#upload-asset-from-device}
+# デバイスからのアセットのアップロード{#upload-asset-from-device}
 
-デバイスからアセットをアップロードして、Adobe Experience Cloudライブラリで管理します。
+デバイスからアセットをアップロードして、Adobe Experience Cloud ライブラリで管理します。
 
-デバイスからExperience Cloudライブラリにアセットをアップロードするには:
+デバイスから Experience Cloud ライブラリにアセットをアップロードするには、次の手順を実行します。
 
-1. **[!UICONTROL 新規]** / **[!UICONTROL アップロードを選択]**&#x200B;します。
+1. **[!UICONTROL New]**／**[!UICONTROL Upload]** を選択します。
 
    ![](assets/library_new_folder_upload.png)
 
-1. Experience Cloudライブラリにアップロードするアセットを選択します。
+1. Experience Cloud ライブラリにアップロードするアセットを選択します。
 
    ![](assets/library_upload_assets_device.png)
 
