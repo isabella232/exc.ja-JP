@@ -3,17 +3,16 @@ description: Adobe Experience Cloud ライブラリは、Adobe Experience Cloud 
 title: Adobe Experience Cloud ライブラリ
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 translation-type: tm+mt
-source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
+source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
 
 ---
 
 
 # Adobe Experience Cloud ライブラリ{#adobe-experience-cloud-library}
 
-Adobe Experience Cloud ライブラリは、Adobe Experience Cloud ソリューションをまたいでアセットを保存、検索、選択するための一元化された汎用エクスペリエンスです。
+2020年3月現在、アドビはAdobe Experience Cloudライブラリを正式に廃止しました。 アクセスできなくなりました。
 
-## よく読まれるトピック
+**関連機能**
 
-* [コンテンツの読み込み](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
-* [検索](/help/c-library-about/c-assets/c-search-for-assets.md)または[フィルタリング](/help/c-library-about/c-assets/c-filter-assets.md)でコンテンツを見つける
-* [アセットに関する情報を表示する](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
+* [Experience Cloud Assets](https://docs.adobe.com/content/help/en/core-services/interface/assets/experience-cloud-assets.html)
+* [AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/home.html)
