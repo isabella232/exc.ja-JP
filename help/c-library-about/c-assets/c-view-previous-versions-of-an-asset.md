@@ -2,11 +2,14 @@
 description: Adobe Experience Cloud ライブラリ内のバージョンの、以前のバージョンを表示できます。
 seo-description: Adobe Experience Cloud ライブラリ内のバージョンの、以前のバージョンを表示できます。
 seo-title: 以前のバージョンのアセットを表示する
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: 以前のバージョンのアセットを表示する
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
