@@ -2,11 +2,14 @@
 description: デバイスからアセットをアップロードして、Adobe Experience Cloud ライブラリで管理します。
 seo-description: デバイスからアセットをアップロードして、Adobe Experience Cloud ライブラリで管理します。
 seo-title: デバイスからのアセットのアップロード
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: デバイスからのアセットのアップロード
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 デバイスから Experience Cloud ライブラリにアセットをアップロードするには、次の手順を実行します。
 
-1. **[!UICONTROL New]**／**[!UICONTROL Upload]** を選択します。
+1. **[!UICONTROL 新規]** / **[!UICONTROL アップロードを選択します]**。
 
    ![](assets/library_new_folder_upload.png)
 
