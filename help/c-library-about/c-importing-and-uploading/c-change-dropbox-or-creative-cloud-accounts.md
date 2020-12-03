@@ -2,11 +2,14 @@
 description: Adobe Experience Cloud ライブラリにコンテンツを追加できるよう、別の Dropbox または Creative Cloud アカウントに切り替えます。
 seo-description: Adobe Experience Cloud ライブラリにコンテンツを追加できるよう、別の Dropbox または Creative Cloud アカウントに切り替えます。
 seo-title: Dropbox または Creative Cloud アカウントの変更
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: Dropbox または Creative Cloud アカウントの変更
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ Dropbox または Creative Cloud アカウントにログインすると、ロ�
 
 別の Dropbox アカウントまたは Creative Cloud アカウントに切り替えるには、次の手順を実行します。
 
-1. **[!UICONTROL New]**／**[!UICONTROL Import]** を選択します。
+1. **[!UICONTROL 新規]** / **[!UICONTROL 読み込みを選択します]**。
 
    ![](assets/library_new_folder_upload.png)
 
