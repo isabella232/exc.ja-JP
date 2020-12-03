@@ -2,11 +2,14 @@
 description: Adobe Experience Cloud ライブラリ内のアセットに関する詳細情報（バージョンなど）を表示します。
 seo-description: Adobe Experience Cloud ライブラリ内のアセットに関する詳細情報（バージョンなど）を表示します。
 seo-title: アセットの詳細情報の表示
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: アセットの詳細情報の表示
 uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
