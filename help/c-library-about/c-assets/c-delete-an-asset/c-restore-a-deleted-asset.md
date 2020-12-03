@@ -2,11 +2,14 @@
 description: Adobe Experience Cloud ライブラリでごみ箱に入れたアセットを復元できます。
 seo-description: Adobe Experience Cloud ライブラリでごみ箱に入れたアセットを復元できます。
 seo-title: ごみ箱に入れたアセットの復元
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: ごみ箱に入れたアセットの復元
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
