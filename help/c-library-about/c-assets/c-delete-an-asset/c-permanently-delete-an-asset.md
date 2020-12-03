@@ -2,11 +2,14 @@
 description: Adobe Experience Cloud ライブラリ内のごみ箱に入れたアセットを完全に削除できます。
 seo-description: Adobe Experience Cloud ライブラリ内のごみ箱に入れたアセットを完全に削除できます。
 seo-title: ごみ箱に入れたアセットの完全な削除
-solution: Adobe Experience Manager
+solution: Experience Manager
 title: ごみ箱に入れたアセットの完全な削除
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
