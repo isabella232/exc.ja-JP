@@ -22,7 +22,7 @@ Dropbox または Creative Cloud アカウントにログインすると、ロ�
 
 別の Dropbox アカウントまたは Creative Cloud アカウントに切り替えるには、次の手順を実行します。
 
-1. **[!UICONTROL 新規]** / **[!UICONTROL 読み込みを選択します]**。
+1. **[!UICONTROL 新規]**/**[!UICONTROL 読み込み]**&#x200B;を選択します。
 
    ![](assets/library_new_folder_upload.png)
 
