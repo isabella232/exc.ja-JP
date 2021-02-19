@@ -3,7 +3,7 @@ description: Adobe Experience Cloud ライブラリのツールをまたいで�
 seo-description: Adobe Experience Cloud ライブラリのツールをまたいでアセットを管理し、詳細やバージョンを簡単に見つけたり、アセットに対するアクションを実行したりします。
 seo-title: Assets
 solution: Experience Manager
-title: Assets
+title: アセット
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
