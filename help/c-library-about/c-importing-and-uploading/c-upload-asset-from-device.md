@@ -20,7 +20,7 @@ ht-degree: 96%
 
 デバイスから Experience Cloud ライブラリにアセットをアップロードするには、次の手順を実行します。
 
-1. **[!UICONTROL 新規]** / **[!UICONTROL アップロードを選択します]**。
+1. **[!UICONTROL 新規]**/**[!UICONTROL アップロード]**&#x200B;を選択します。
 
    ![](assets/library_new_folder_upload.png)
 
