@@ -24,7 +24,7 @@ Creative Cloud から Adobe Experience Cloud ライブラリにファイルを�
 
 Creative Cloud ファイルを Experience Cloud ライブラリに読み込むには、次の手順を実行します。
 
-1. **[!UICONTROL 新規]** / **[!UICONTROL 読み込みを選択します]**。
+1. **[!UICONTROL 新規]**/**[!UICONTROL 読み込み]**&#x200B;を選択します。
 
    ![](assets/library_new_folder_upload.png)
 
