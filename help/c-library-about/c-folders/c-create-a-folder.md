@@ -20,7 +20,7 @@ Adobe Experience Cloud ライブラリにフォルダーを作成して、アセ
 
 Experience Cloud ライブラリにフォルダーを作成するには、次の手順を実行します。
 
-1. **[!UICONTROL 新規]** / **[!UICONTROL フォルダーを選択します]**。
+1. **[!UICONTROL 新規]**/**[!UICONTROL フォルダー]**&#x200B;を選択します。
 
    ![](assets/library_new_folder_upload.png)
 
