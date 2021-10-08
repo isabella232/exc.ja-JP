@@ -1,12 +1,14 @@
 ---
 cloud: Experience Cloud
+product: experience cloud
+solution: Experience Cloud
+type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.ja-JP
 index: false
-translation-type: tm+mt
-source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
+source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +17,7 @@ ht-degree: 100%
 
 # 社内用のメタデータ
 
-metadata.md ファイルにはリポジトリー内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+metadata.md ファイルには、リポジトリー内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリーレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
 | メタデータ | 説明 |
 |--- |--- |
