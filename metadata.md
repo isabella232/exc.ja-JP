@@ -7,8 +7,8 @@ git-repo: https://github.com/AdobeDocs/exc.ja-JP
 index: false
 source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 100%
 
 ---
 
